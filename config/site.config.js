@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://t.me/I_am_niu_touren',
     }, 
     {
-      name: 'WeXin',
+      name: 'WeChat',
       link: 'https://u.wechat.com/MG6QMN8yDxKQwOuxuWtbStw',
     },
     {
