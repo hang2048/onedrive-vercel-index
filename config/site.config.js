@@ -52,12 +52,16 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/hang2048/onedrive-vercel-index',
-    },
-    {
       name: 'Telegram',
       link: 'https://t.me/I_am_niu_touren',
+    }, 
+    {
+      name: 'WeChat',
+      link: 'https://u.wechat.com/MG6QMN8yDxKQwOuxuWtbStw',
+    },
+    {
+      name: 'GitHub',
+      link: 'https://github.com/hang2048',
     },
   ],
 
