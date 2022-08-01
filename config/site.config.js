@@ -44,6 +44,7 @@ module.exports = {
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/H_个人文件'],
   protectedRoutes: ['/B_班级通知/工程力学系班导师汇总制度表'],
+  protectedRoutes: ['/B_班级通知/Z_2021-2022大二中期寒假/个人志愿活动认定'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:lzh20022020@gmail.com',
