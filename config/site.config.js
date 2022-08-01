@@ -45,7 +45,9 @@ module.exports = {
   protectedRoutes: ['/H_个人文件'],
   protectedRoutes: ['/B_班级通知/工程力学系班导师汇总制度表'],
   protectedRoutes: ['/B_班级通知/Z_2021-2022大二中期寒假/个人志愿活动认定'],
-
+  protectedRoutes: ['/A_学业文件/Y_杂文件/陈年外刊/2022 Soren18期寒假课(完结)'],
+  protectedRoutes: ['/A_学业文件/Z_已完成/L_流体力学/课堂演讲'],
+  
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:lzh20022020@gmail.com',
 
