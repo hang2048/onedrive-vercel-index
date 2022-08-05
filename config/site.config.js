@@ -67,7 +67,7 @@ module.exports = {
     },
     {
       name: 'GitHub',
-      link: 'https://github.com/hang2048',
+      link: 'https://imgtu.com/i/vnN03R',
     },
   ],
 
